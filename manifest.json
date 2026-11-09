@@ -1,0 +1,38 @@
+{
+  "name": "Retail POS Enterprise — Demo",
+  "short_name": "POS Demo",
+  "description": "Versi demo Retail POS Enterprise (data contoh, direset setiap hari)",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "any",
+  "lang": "id",
+  "dir": "ltr",
+  "background_color": "#ffffff",
+  "theme_color": "#059669",
+  "prefer_related_applications": false,
+  "categories": [
+    "business",
+    "finance",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
